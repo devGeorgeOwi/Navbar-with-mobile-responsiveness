@@ -1,2 +1,3 @@
 # Navbar-with-mobile-responsiveness
-A Navbar with toggle button on a mobile responsive view  builth with HTML, CSS &amp; JAVASCRIPT
+A navbar with mobile responsiveness, built with HTML, CSS and JavaScript,
+It's reusable for any personal project
